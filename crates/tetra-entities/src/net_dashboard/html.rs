@@ -1871,6 +1871,7 @@ tbody tr:hover td{background:color-mix(in srgb,var(--bg3) 70%, transparent);}
         <button class="lang-btn" onclick="setLang('es',this)">ES</button>
         <button class="lang-btn" onclick="setLang('hu',this)">HU</button>
         <button class="lang-btn" onclick="setLang('zh',this)">CN</button>
+        <button class="lang-btn" onclick="setLang('pt',this)">PT</button>
       </div>
       <!-- Logout: clears session cookie and redirects to /login. Hidden when auth is off. -->
       <button class="logout-btn" id="logout-btn" onclick="doLogout()" title="Log out" style="display:none">⏻</button>
